@@ -1,0 +1,6 @@
+{
+  "name": "DocVision AI - Enterprise Document Intelligence Platform",
+  "description": "AI-powered enterprise document intelligence platform for automated processing, OCR, cross-document consistency validation, and evidence-backed discrepancy reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
